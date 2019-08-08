@@ -16,6 +16,8 @@ description: A site to compile materials about Florida's Amendment 4 for restora
 # baseurl should be an empty string
 #baseurl: ""
 include: ['_cases']
+collections:
+  - cases
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
