@@ -23,12 +23,7 @@ collections:
 
 # List of links in the navigation bar
 navbar-links:
-  Links: "/"
-  Current Cases:
-    - Jones v. DeSantis: "https://www.courtlistener.com/docket/15867552/jones-v-desantis/"
-    - Raysor v. Lee: "https://www.courtlistener.com/docket/15862935/raysor-v-lee/"
-    - Mendez v. DeSantis: "https://www.courtlistener.com/docket/15867553/mendez-v-desantis/"
-    - McCoy v. DeSantis: "https://www.courtlistener.com/docket/15867551/mccoy-v-desantis/"
+
   SB 7066 Docs:
     - Enrolled Bill: "https://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?FileName=_s7066er.DOCX&DocumentType=Bill&BillNumber=7066&Session=2019"
     - Bill History: "https://www.myfloridahouse.gov/Sections/Bills/billsdetail.aspx?BillId=65922&SessionId=87"
